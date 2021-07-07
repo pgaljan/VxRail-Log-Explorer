@@ -2,9 +2,9 @@
 Provided with no license or guarantee.
 
 **Instructions**\
--Install [Power BI Desktop](https://www.microsoft.com/en-us/download/details.aspx?id=58494)\
--Put VxRail 7.x log files in c:\logs\VxRail and click Refresh\
--Select the log file you would like to evaluate\
+* Install [Power BI Desktop](https://www.microsoft.com/en-us/download/details.aspx?id=58494)\
+* Put VxRail 7.x log files in c:\logs\VxRail and click Refresh\
+* Select the log file you would like to evaluate\
 \
 Contact paul.galjan@dell.com with questions and suggestions.
 
