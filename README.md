@@ -23,4 +23,6 @@ A filtered view with only python commands.  Somewhat sensitive to the log format
 **Host Explorer**\
 Filters on hostsn, extracts host configuration details & displays complete host JSON parameters if present\
 Seems to work with putty-generated logs\
-![image]()
+![image](https://user-images.githubusercontent.com/11296072/124799685-d1ff8c80-df22-11eb-9303-bcccfec6685f.png)\
+\
+
