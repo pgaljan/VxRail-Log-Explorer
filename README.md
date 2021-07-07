@@ -16,7 +16,7 @@ A basic, minimally filtered view of the log.\
 ![image](https://user-images.githubusercontent.com/11296072/124794738-53ecb700-df1d-11eb-95cc-204de999b480.png)\
 \
 **Python Explorer**\
-Filtered to include only the log entries that include Python commands.  There's some SQL to extract the command name, which is currently unreliable with putty exports, the entries all appear\
+Filtered to include only the log entries that include Python commands.  The command name extraction statement is unreliable with putty exports\
 ![image](https://user-images.githubusercontent.com/11296072/124781852-bd66c880-df11-11eb-8389-85acd72ae6ba.png)\
 \
 **Host Explorer**\
