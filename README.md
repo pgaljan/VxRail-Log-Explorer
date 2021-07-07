@@ -9,7 +9,7 @@ Provided with no license or guarantee.
 Contact paul.galjan@dell.com with questions and suggestions.
 
 **Overview**\
-A tool to quickly visualize VxRail 7.x log files, allowing you to filter by time, microservice and log criticality.  Three views are available:\
+A tool to quickly visualize VxRail 7.x log files, allowing you to independently filter by time, microservice, log criticality and other parameters.   You can also export those filtered views for analysis in other tools.  Three views are available:\
 \
 **Log Explorer**\
 A basic, minimally filtered view of the log.\
