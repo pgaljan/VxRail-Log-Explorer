@@ -1,5 +1,5 @@
 # VxRail-Log-Explorer
-Provided with no license or guarantee.
+Provided with no license or warranty.
 
 **Instructions**
 * Install [Power BI Desktop](https://www.microsoft.com/en-us/download/details.aspx?id=58494)
