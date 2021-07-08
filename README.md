@@ -16,10 +16,9 @@ A basic, minimally filtered view of the log.\
 ![image](https://user-images.githubusercontent.com/11296072/124794738-53ecb700-df1d-11eb-95cc-204de999b480.png)\
 \
 **Python Explorer**\
-Filtered to include only the log entries that include Python commands.  The command name extraction statement is unreliable with putty exports\
+Filtered to include only the log entries that include Python commands.  With putty exports, the command name extraction statement is unreliable, although the view does include all of the log entries with python commands.\
 ![image](https://user-images.githubusercontent.com/11296072/124781852-bd66c880-df11-11eb-8389-85acd72ae6ba.png)\
 \
 **Host Explorer**\
-Filters on hostsn, extracts host configuration details & displays complete host JSON parameters if present\
-Seems to work fine with putty-generated logs\
+Filters on hostsn, extracts host configuration details & displays complete host JSON parameters if present.  Seems to work fine with putty-generated logs\
 ![image](https://user-images.githubusercontent.com/11296072/124799685-d1ff8c80-df22-11eb-9303-bcccfec6685f.png)
